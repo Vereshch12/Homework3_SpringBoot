@@ -1,5 +1,9 @@
 ### Добавить айди
+<<<<<<< HEAD
 GET http://localhost:8080/store/order/add?id:=1,2,3
+=======
+GET http://localhost:8080/store/order/add?id=1,2,3
+>>>>>>> origin/Выполнение_ДЗ
 
 ### Получить корзину
 GET http://localhost:8080/store/order/get
