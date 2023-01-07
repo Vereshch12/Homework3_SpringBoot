@@ -1,0 +1,98 @@
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-08T021915.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id:=1,2,3
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-08T021402.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-08T020956.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-08T020951.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-08T020949.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-08T020633.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-08T020034.400.json
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-06T063714.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-06T063650.400.json
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-06T063325.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-06T063225.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-06T062842.400.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-06T062819.400.json
+
+###
+
+GET http://localhost:8080/store/order/get
+
+<> 2023-01-06T062655.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id=1,2,3
+
+<> 2023-01-06T062644.400.json
+
+###
+

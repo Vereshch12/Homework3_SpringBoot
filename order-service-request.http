@@ -1,5 +1,5 @@
 ### Добавить айди
-GET http://localhost:8080/store/order/add?id=1,2,3
+GET http://localhost:8080/store/order/add?id:=1,2,3
 
 ### Получить корзину
 GET http://localhost:8080/store/order/get

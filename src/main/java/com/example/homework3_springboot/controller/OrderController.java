@@ -18,7 +18,7 @@ public class OrderController {
     }
 
     @GetMapping("/add")
-    public void add(@RequestParam("id") List<Integer> ids){
+    public void add(@RequestParam("id:") List<Integer> ids){
         this.basketService.addToBasket(ids);
     }
 
