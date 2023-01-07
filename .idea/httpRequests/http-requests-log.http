@@ -1,5 +1,15 @@
 GET http://localhost:8080/store/order/get
 
+<> 2023-01-08T022059.200.json
+
+###
+
+GET http://localhost:8080/store/order/add?id:=1,2,3
+
+###
+
+GET http://localhost:8080/store/order/get
+
 <> 2023-01-08T021915.200.json
 
 ###
